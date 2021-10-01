@@ -1,0 +1,26 @@
+body{
+    background-color:lightgoldenrodyellow
+}
+h1{
+    font-Size: 35px; 
+    color:chocolate; 
+}
+h2{
+    font-size: 20px;
+    color:teal;
+}
+
+.dodo{
+    font-Size:40px;
+    color:black;
+}
+.uppercase{
+    text-transform: uppercase
+    
+}
+.dodo.uppercase{
+    color:darkslategray;
+}
+h1 span{
+    color:darkviolet
+}
